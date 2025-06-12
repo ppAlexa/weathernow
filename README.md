@@ -15,5 +15,9 @@ A weather app built using HTML, CSS, JavaScript, and the OpenWeather API.
 ## How to Run
 Just open `index.html` in any browser.
 
-## Author
-Pallavi Priya
+## Live Demo
+
+https://weathernow-dusky.vercel.app/
+
+
+Made by Pallavi Priya 
